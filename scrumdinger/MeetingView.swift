@@ -33,6 +33,7 @@ struct MeetingView: View {
                 }
             }
         }
+        .padding()
     }
 }
 
